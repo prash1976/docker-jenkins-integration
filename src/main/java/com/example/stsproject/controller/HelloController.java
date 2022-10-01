@@ -12,7 +12,7 @@ public class HelloController {
 	
 	@GetMapping("/welcome")
 	public String welcome() {
-		logger.info("ELK logger implemented");
+		logger.info("ELK logger implemented !!!!!");
 		return "Welcome ELK";
 	}
 
