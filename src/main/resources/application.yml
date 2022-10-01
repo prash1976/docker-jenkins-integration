@@ -1,0 +1,5 @@
+logging:
+  file:
+    name: D:/ELK_Stack/elktest.log
+server:
+  port: 9800
